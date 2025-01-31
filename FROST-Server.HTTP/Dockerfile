@@ -1,4 +1,4 @@
-From tomcat:9-jdk17
+From tomcat:9.0.98-jdk17
 
 RUN apt-get update && apt-get install unzip && apt-get clean
 
