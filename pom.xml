@@ -101,7 +101,7 @@
         <version.jakarta-servlet>6.1.0</version.jakarta-servlet>
         <version.jakartaee-web-api>11.0.0</version.jakartaee-web-api>
         <version.jetty>12.1.4</version.jetty>
-        <version.jooq>3.20.9</version.jooq>
+        <version.jooq>3.20.10</version.jooq>
         <version.json-patch>1.13</version.json-patch>
         <version.junit>6.0.1</version.junit>
         <version.junit-platform-suite>6.0.1</version.junit-platform-suite>
