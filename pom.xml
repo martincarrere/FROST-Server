@@ -135,7 +135,7 @@
         <version.org.json>20231013</version.org.json>
         <version.paho>1.2.5</version.paho>
         <version.postgis>2025.1.1</version.postgis>
-        <version.postgres>42.7.8</version.postgres>
+        <version.postgres>42.7.9</version.postgres>
         <version.prometheus>1.4.3</version.prometheus>
         <version.slf4j-api>2.0.17</version.slf4j-api>
         <version.testcontainers>2.0.1</version.testcontainers>
